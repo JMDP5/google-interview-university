@@ -64,30 +64,30 @@ from public sources and replacing the online course videos over time. I like usi
 
 ## Interview Process & General Interview Prep
 
-- [x] Videos:
-    - [x] https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be
-    - [x] https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be
-    - [x] https://www.youtube.com/watch?v=8npJLXkcmu8
+- [ ] Videos:
+    - [ ] https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be
+    - [ ] https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be
+    - [ ] https://www.youtube.com/watch?v=8npJLXkcmu8
 
-- [x] Articles:
-    - [x] http://www.google.com/about/careers/lifeatgoogle/hiringprocess/
-    - [x] http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
+- [ ] Articles:
+    - [ ] http://www.google.com/about/careers/lifeatgoogle/hiringprocess/
+    - [ ] http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
         - all the things he mentions that you need to know are listed below
-    - [x] (very dated) http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html
-    - [x] http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
+    - [ ] (very dated) http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html
+    - [ ] http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
 
-- [x] Additional (not suggested by Google but I added):
-    - [x] https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4
-    - [x] https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx
-    - [x] https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1
-    - [x] http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture
-    - [x] http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/
-    - [x] Cracking The Coding Interview Set 1:
-        - [x] https://www.youtube.com/watch?v=rEJzOhC5ZtQ
-        - [x] https://www.youtube.com/watch?v=aClxtDcdpsQ
-    - [x] How to Get a Job at the Big 4:
-        - [x] https://www.youtube.com/watch?v=YJZCUhxNCv8
-    - [x] http://alexbowe.com/failing-at-google-interviews/
+- [ ] Additional (not suggested by Google but I added):
+    - [ ] https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4
+    - [ ] https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx
+    - [ ] https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1
+    - [ ] http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture
+    - [ ] http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/
+    - [ ] Cracking The Coding Interview Set 1:
+        - [ ] https://www.youtube.com/watch?v=rEJzOhC5ZtQ
+        - [] https://www.youtube.com/watch?v=aClxtDcdpsQ
+    - [ ] How to Get a Job at the Big 4:
+        - [ ] https://www.youtube.com/watch?v=YJZCUhxNCv8
+    - [ ] http://alexbowe.com/failing-at-google-interviews/
 
 
 ## Prerequisite Knowledge
@@ -103,56 +103,56 @@ You need to be very comfortable in the language, and be knowledgeable. Read more
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
-- [x] **How computers process a program:**
-    - [x] https://www.youtube.com/watch?v=42KTvGYQYnA
-    - [x] https://www.youtube.com/watch?v=Mv2XQgpbTNE
+- [ ] **How computers process a program:**
+    - [ ] https://www.youtube.com/watch?v=42KTvGYQYnA
+    - [ ] https://www.youtube.com/watch?v=Mv2XQgpbTNE
 
-- [x] **How floating point numbers are stored:**
-    - [x] simple 8-bit: http://math.stackexchange.com/questions/301435/fractions-in-binary
-    - [x] 32 bit: https://www.youtube.com/watch?v=ji3SfClm8TU
-    - [x] 64 bit: https://www.youtube.com/watch?v=50ZYcZebIec
+- [ ] **How floating point numbers are stored:**
+    - [ ] simple 8-bit: http://math.stackexchange.com/questions/301435/fractions-in-binary
+    - [ ] 32 bit: https://www.youtube.com/watch?v=ji3SfClm8TU
+    - [ ] 64 bit: https://www.youtube.com/watch?v=50ZYcZebIec
 
-- [x] **Computer Arch Intro:**
+- [ ] **Computer Arch Intro:**
     (first video only - interesting but not required) https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&index=1
 
-- [x] **C**
-    - [x] [ANSI C Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
-    - [x] K&R C book (ANSI C)
-    - [x] Clang: https://www.youtube.com/watch?v=U3zCxnj2w8M
-    - [x] GDB:
+- [ ] **C**
+    - [ ] [ANSI C Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
+    - [ ] K&R C book (ANSI C)
+    - [ ] Clang: https://www.youtube.com/watch?v=U3zCxnj2w8M
+    - [ ] GDB:
         - https://www.youtube.com/watch?v=USPvePv1uzE
         - https://www.youtube.com/watch?v=y5JmQItfFck
       - Valgrind: https://www.youtube.com/watch?v=fvTsFjDuag8
-- [x] **C++**
-    - [x] [C++ Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
-    - [x] [STL Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
-    - [x] basics
-    - [x] pointers
-    - [x] functions
-    - [x] references
-    - [x] templates
-    - [x] compilation
-    - [x] scope & linkage
-    - [x] namespaces
-    - [x] OOP
-    - [x] STL
-    - [x] functors: http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html
-    - [x] C++ at Google: https://www.youtube.com/watch?v=NOCElcMcFik
-    - [x] Google C++ Style Guide: https://google.github.io/styleguide/cppguide.html
-        - [x] Google uses clang-format (there is a command line "style" argument: -style=google)
-    - [x] Efficiency with Algorithms, Performance with Data Structures: https://youtu.be/fHNmRkzxHWs
-    - [x] review of C++ concepts: https://www.youtube.com/watch?v=Rub-JsjMhWY
+- [ ] **C++**
+    - [ ] [C++ Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
+    - [ ] [STL Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
+    - [ ] basics
+    - [ ] pointers
+    - [ ] functions
+    - [ ] references
+    - [ ] templates
+    - [ ] compilation
+    - [ ] scope & linkage
+    - [ ] namespaces
+    - [ ] OOP
+    - [ ] STL
+    - [ ] functors: http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html
+    - [ ] C++ at Google: https://www.youtube.com/watch?v=NOCElcMcFik
+    - [ ] Google C++ Style Guide: https://google.github.io/styleguide/cppguide.html
+        - [ ] Google uses clang-format (there is a command line "style" argument: -style=google)
+    - [ ] Efficiency with Algorithms, Performance with Data Structures: https://youtu.be/fHNmRkzxHWs
+    - [ ] review of C++ concepts: https://www.youtube.com/watch?v=Rub-JsjMhWY
 
-- [x] **Python**
-    - [x] [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
+- [ ] **Python**
+    - [ ] [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
     - I've already use Python quite a bit. This is just for review.
-    - [x] https://www.youtube.com/watch?v=N4mEzFDjqtA
+    - [ ] https://www.youtube.com/watch?v=N4mEzFDjqtA
 
-- [x] **Compilers**
-    - [x] https://class.coursera.org/compilers-004/lecture/1
-    - [x] https://class.coursera.org/compilers-004/lecture/2
-    - [x] C++: https://www.youtube.com/watch?v=twodd1KFfGk
-    - [x] Understanding Compiler Optimization (C++): https://www.youtube.com/watch?v=FnGCDLhaxKU
+- [ ] **Compilers**
+    - [ ] https://class.coursera.org/compilers-004/lecture/1
+    - [ ] https://class.coursera.org/compilers-004/lecture/2
+    - [ ] C++: https://www.youtube.com/watch?v=twodd1KFfGk
+    - [ ] Understanding Compiler Optimization (C++): https://www.youtube.com/watch?v=FnGCDLhaxKU
 
 ## The Daily Plan:
 
@@ -184,11 +184,11 @@ Write code on a whiteboard, not a computer. Test with some sample inputs.
 Then test it out on a computer to make sure it's not buggy from syntax.
 
 
-- [x] **Before you get started:**
+- [ ] **Before you get started:**
     - The myth of the Genius Programmer: https://www.youtube.com/watch?v=0SARbwvhupQ
     - Google engineers are smart, but many have an insecurity that they aren't smart enough.
 
-- [x] **Algorithmic complexity / Big O / Asymptotic analysis**
+- [ ] **Algorithmic complexity / Big O / Asymptotic analysis**
     - nothing to implement
     - Harvard CS50 - Asymptotic Notation: https://www.youtube.com/watch?v=iOq5kSKqeR4
     - Big O Notations (general quick tutorial) - https://www.youtube.com/watch?v=V6mKVRU1evU
@@ -212,8 +212,8 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 
 ## Data Structures
 
-- [x] **Arrays: (Implement an automatically resizing vector)**
-    - [x] Description:
+- [ ] **Arrays: (Implement an automatically resizing vector)**
+    - [ ] Description:
         - Arrays: https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays
         - Arrays: https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html
         - Multi-dim: https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html
@@ -221,23 +221,23 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - Jagged: https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html
         - Resizing arrays:
             - https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html
-    - [x] Implement a vector (mutable array with automatic resizing):
-        - [x] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
-        - [x] new raw data array with allocated memory
+    - [ ] Implement a vector (mutable array with automatic resizing):
+        - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
+        - [ ] new raw data array with allocated memory
             - can allocate int array under the hood, just not use its features
             - start with 16, or if starting number is greater, use power of 2 - 16, 32, 64, 128
-        - [x] size() - number of items
-        - [x] capacity() - number of items it can hold
-        - [x] is_empty()
-        - [x] at(index) - returns item at given index, blows up if index out of bounds
-        - [x] push(item)
-        - [x] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right
-        - [x] prepend(item) - can use insert above at index 0
-        - [x] pop() - remove from end, return value
-        - [x] delete(index) - delete item at index, shifting all trailing elements left
-        - [x] remove(item) - looks for value and removes index holding it (even if in multiple places)
-        - [x] find(item) - looks for value and returns first index with that value, -1 if not found
-        - [x] resize(new_capacity) // private function
+        - [ ] size() - number of items
+        - [ ] capacity() - number of items it can hold
+        - [ ] is_empty()
+        - [ ] at(index) - returns item at given index, blows up if index out of bounds
+        - [ ] push(item)
+        - [ ] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right
+        - [ ] prepend(item) - can use insert above at index 0
+        - [ ] pop() - remove from end, return value
+        - [ ] delete(index) - delete item at index, shifting all trailing elements left
+        - [ ] remove(item) - looks for value and removes index holding it (even if in multiple places)
+        - [ ] find(item) - looks for value and returns first index with that value, -1 if not found
+        - [ ] resize(new_capacity) // private function
             - when you reach capacity, resize to double the size
             - when popping an item, if size is 1/4 of capacity, resize to half
     - [x] Time
